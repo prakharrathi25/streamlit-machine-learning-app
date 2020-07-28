@@ -24,15 +24,15 @@ I also display the datapoints plotted on a 2-D plane by decomposition using Prin
 
 <p align="center">
   <figure class="image">
-    <img src="images\pic1.JPG" alt="App Look">
     <figcaption>App look with KNN algorithm and Iris Dataset </figcaption>
+    <img src="images\pic1.JPG" alt="App Look">
   </figure>
  </p> 
  
  <p align="center">
   <figure class="image">
+    <figcaption>Wine Quality dataset with Random Forest and Scaled Data</figcaption>
     <img src="images\pic2.JPG" alt="App Look">
-    <figcaption>App look with KNN algorithm and Iris Dataset </figcaption>
   </figure>
  </p> 
  
