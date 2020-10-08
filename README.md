@@ -22,8 +22,10 @@ I also display the datapoints plotted on a 2-D plane by decomposition using Prin
 
 ## How to Run 
 
-1. Clone this repository on your local machine 
-2. Run the Streamlit app using: `streamlit run app.py`  
+1. Clone this repository on your local machine
+2. Install Streamlit: `pip install streamlit`
+3. Run the Streamlit app using: `streamlit run app.py`  
+
 ## Preview 
 
 <p align="center">
