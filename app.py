@@ -3,7 +3,6 @@ import numpy as np
 import streamlit as st
 import utilities
 
-
 # Set a title 
 st.title("My Streamlit App")
 

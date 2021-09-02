@@ -1,5 +1,4 @@
 ''' File which contains the utility functions needed for the application '''
-
 # Import libraries 
 import pandas as pd 
 import streamlit as st
@@ -109,4 +108,4 @@ def plot_data(X, y):
 	plt.colorbar()
 
 	# Plot using streamlit 
-	st.pyplot()
+	st.pyplot(fig)
