@@ -18,8 +18,10 @@ Change the **classifer** or the **dataset** on the left to see how different mod
 # Add a select box widget to the side 
 dataset_name = st.sidebar.selectbox("Select Dataset", ("Iris", "Breast Cancer", "Wine"))
 
+# Select Classifier
 classifier = st.sidebar.selectbox("Select Classifiers", ("KNN", "SVM", "Random Forest"))
 
+# Check Scaling
 scaling = st.sidebar.checkbox("Scaling?")
 
 # Get the data 
